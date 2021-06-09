@@ -1,0 +1,9 @@
+[
+  {
+    "package": "lmtp",
+    "oncran": false
+  },
+  {
+    "package": "simul"
+  }
+]
