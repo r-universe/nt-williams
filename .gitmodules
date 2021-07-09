@@ -13,3 +13,8 @@
 	url = https://github.com/nt-williams/simul
 	shallow = true
 	registered = true
+[submodule "codebook"]
+	path = codebook
+	url = https://github.com/nt-williams/codebook
+	shallow = true
+	registered = true
