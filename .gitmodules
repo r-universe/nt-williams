@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/nt-williams/universe
-	shallow = true
 	branch = HEAD
 [submodule "lmtp"]
 	path = lmtp
 	url = https://github.com/nt-williams/lmtp
-	shallow = true
-	registered = true
 [submodule "simul"]
 	path = simul
 	url = https://github.com/nt-williams/simul
-	shallow = true
-	registered = true
 [submodule "codebook"]
 	path = codebook
 	url = https://github.com/nt-williams/codebook
-	shallow = true
-	registered = true
