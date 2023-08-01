@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/nt-williams/universe
 	branch = HEAD
+[submodule "codebook"]
+	path = codebook
+	url = https://github.com/nt-williams/codebook
 [submodule "lmtp"]
 	path = lmtp
 	url = https://github.com/nt-williams/lmtp
 [submodule "simul"]
 	path = simul
 	url = https://github.com/nt-williams/simul
-[submodule "codebook"]
-	path = codebook
-	url = https://github.com/nt-williams/codebook
