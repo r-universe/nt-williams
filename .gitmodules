@@ -1,13 +1,13 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/nt-williams/universe
+	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "codebook"]
-	path = codebook
-	url = https://github.com/nt-williams/codebook
+[submodule "cabinets"]
+	path = cabinets
+	url = https://github.com/nt-williams/cabinets
+[submodule "catfun"]
+	path = catfun
+	url = https://github.com/nt-williams/catfun
 [submodule "lmtp"]
 	path = lmtp
 	url = https://github.com/nt-williams/lmtp
-[submodule "simul"]
-	path = simul
-	url = https://github.com/nt-williams/simul
