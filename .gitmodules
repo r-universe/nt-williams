@@ -5,6 +5,9 @@
 [submodule "codebreak"]
 	path = codebreak
 	url = https://github.com/nt-williams/codebreak
+[submodule "ife"]
+	path = ife
+	url = https://github.com/nt-williams/ife
 [submodule "lmtp"]
 	path = lmtp
 	url = https://github.com/nt-williams/lmtp
